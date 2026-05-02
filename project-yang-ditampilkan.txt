@@ -1,0 +1,5 @@
+Daftar project
+- Web Pemesanan Kue Kedai Permata
+- Web Genshin Impact Character
+- Web Pemesanan Kosmetik
+- Web info harga produk pada toko tertentu
