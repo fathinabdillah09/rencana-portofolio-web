@@ -18,4 +18,3 @@ bahasa yang masih didalami:
 1. React
 2. Laravel
 3. NextJs
-4. Git & GitHub
