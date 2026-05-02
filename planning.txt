@@ -3,6 +3,7 @@ A. Admin
  1. dapat melakukan crud pada profile
  2. dapat melakukan crud pada section perkenalan diri
  3. dapat melakukan crud pada section kumpulan project
+ 4. dapat melakukan crud pada info kontak
 
 - Memasang profil asli
 - memperkenalkan diri
