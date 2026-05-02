@@ -1,6 +1,8 @@
 - Memasang profil asli
 - memperkenalkan diri
 - minat dan pekerjaan yang diinginkan
+- memberitahukan bahasa pemrograman dan framework yang dikuasai
 - memamerkan kumpulan project
  > tampilan berupa gambar
  > saat diklik akan dibawa ke link project
+- memberi info kontak yang bisa dihubungi
