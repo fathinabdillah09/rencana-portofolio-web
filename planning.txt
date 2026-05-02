@@ -17,6 +17,5 @@ A. Admin
 bahasa yang masih didalami:
 1. React
 2. Laravel
-3. NextJs
-4. Vue
-5. SQL
+3. Vue
+4. SQL

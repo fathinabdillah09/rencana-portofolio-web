@@ -1,4 +1,0 @@
-Fitur web
-- bisa login dan register
-- bisa menambahkan produk ke keranjang
-- bisa memesan produk
