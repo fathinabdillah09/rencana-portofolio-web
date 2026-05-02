@@ -13,3 +13,7 @@ A. Admin
  > tampilan berupa gambar
  > saat diklik akan dibawa ke link project
 - memberi info kontak yang bisa dihubungi
+
+bahasa yang masih didalami:
+1. React
+2. Laravel
