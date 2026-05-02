@@ -1,0 +1,4 @@
+A. Perencanaan Awal
+  Fitur:
+  - menampilkan nama, harga, ukuran, merk dari produk
+  - dapat melakukan perubahan dari data produk
