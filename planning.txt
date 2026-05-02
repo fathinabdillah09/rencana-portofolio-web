@@ -1,0 +1,6 @@
+- Memasang profil asli
+- memperkenalkan diri
+- minat dan pekerjaan yang diinginkan
+- memamerkan kumpulan project
+ > tampilan berupa gambar
+ > saat diklik akan dibawa ke link project
